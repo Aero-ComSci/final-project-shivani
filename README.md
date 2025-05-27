@@ -7,3 +7,5 @@ This program is for kids and teens who want to discover a fun summer ice cream f
 
 What the program does, what does it automate?
 The program asks the user many multiple-choice questions and then uses the answers to recommend an ice cream flavor. It automates the process of matching user preferences to preset a list of flavor results. 
+
+5/27- I brainstormed and created the program description started the UI.
