@@ -39,6 +39,15 @@ def get_valid_input(prompt):
         else:
             print("Invalid input. Please enter only a, b, c, or d.")
 ```
+Screenshots:
+<img width="751" alt="Screenshot 2025-05-29 at 10 33 09 PM" src="https://github.com/user-attachments/assets/037a8ad4-b53d-4efd-a61f-889147e4f308" />
+<img width="593" alt="Screenshot 2025-05-29 at 10 33 22 PM" src="https://github.com/user-attachments/assets/ac9b13fb-8530-42fe-9bcf-89b051db495a" />
+<img width="683" alt="Screenshot 2025-05-29 at 10 33 36 PM" src="https://github.com/user-attachments/assets/7ae8b3d2-f263-44e1-851d-9784542ac87e" />
+
+Screen recording:
+
+https://github.com/user-attachments/assets/28dd2f06-0e73-42a4-987c-0757ff0d3873
+
 
 Work log: 
 5/27- I brainstormed and created the program description on the Read Me and started the code. 
